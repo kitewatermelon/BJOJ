@@ -1,3 +1,7 @@
+''' 
+https://www.acmicpc.net/problem/2745 
+'''
+
 N, B = input().split()
 B = int(B)
 sum = 0
