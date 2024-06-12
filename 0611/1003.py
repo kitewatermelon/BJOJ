@@ -1,3 +1,7 @@
+'''
+피보나치 
+'''
+
 # file_name = "0611\sample.txt" 
 
 # case = []
