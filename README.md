@@ -1,3 +1,3 @@
 # BJOJ
 ## 백준 온라인 저지 
-친구들이랑 경쟁전하는 중.. 파이팅!
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkite576)](https://solved.ac/parkite576)    
